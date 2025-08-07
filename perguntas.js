@@ -1,5 +1,5 @@
 criaCartao(
-    'Comidas',
+    'comidas',
     'macarrão ou lasanha?,
     'lasanha'
 )
