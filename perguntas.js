@@ -1,18 +1,18 @@
 criaCartao(
     'comidas',
-    'macarrão ou lasanha?,
-    'lasanha'
+    'Macarrão ou lasanha?',
+    'lasanha',
 )
 
 criaCartao(
     'cores',
-    'azul ou roxo?',
+    'Azul ou roxo?',
     'Roxo'
 )
 
 criaCartao(
     'DEus',
-    'viver a minha vontade ou a vontade de Deus?',
+    'Viver a minha vontade ou a vontade de Deus?',
     'A vontade de Deus'
 )
 
